@@ -4,3 +4,7 @@ theme:
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.arithmatex:
+      generic: true
