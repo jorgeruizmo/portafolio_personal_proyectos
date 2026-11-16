@@ -1,3 +1,6 @@
 site_name: Jorge Ruiz's Personal Portafolio Projects
 theme:
   name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
